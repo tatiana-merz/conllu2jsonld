@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Бастаан ыалдьар киһини карточкаҕа суруйаллар",
+    "id1": 1,
+    "form1": "Бастаан",
+    "lemma1": "бастаан",
+    "upos1": "ADV",
+    "xpos1": "adv",
+    "feats1": null,
+    "head1": 5,
+    "deprel1": "advmod",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "ыалдьар",
+    "lemma2": "ыалдьар",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Nom|Definite=Ind|Number=Sing|",
+    "head2": 3,
+    "deprel2": "nmod",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "киһини",
+    "lemma3": "киһи",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Acc|Definite=Def|Number=Sing|",
+    "head3": 5,
+    "deprel3": "obj",
+    "deps3": null,
+    "misc3": null,
+    "id4": 4,
+    "form4": "карточкаҕа",
+    "lemma4": "карточка",
+    "upos4": "NOUN",
+    "xpos4": "n",
+    "feats4": "Case=Dat|Number=Sing|",
+    "head4": 5,
+    "deprel4": "obl",
+    "deps4": null,
+    "misc4": null
+}

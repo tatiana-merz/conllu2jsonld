@@ -1,0 +1,4 @@
+cachetools==5.0.0
+conllu==4.4.1
+frozendict==2.3.0
+lxml==4.8.0

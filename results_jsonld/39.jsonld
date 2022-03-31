@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Кини дьиэҕэ киирбитэ",
+    "id1": 1,
+    "form1": "Кини",
+    "lemma1": "кини",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Sing|Person=3|PronType=Prs|",
+    "head1": 3,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "дьиэҕэ",
+    "lemma2": "дьиэ",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Dat|Number=Sing|",
+    "head2": 3,
+    "deprel2": "obl",
+    "deps2": null,
+    "misc2": null
+}

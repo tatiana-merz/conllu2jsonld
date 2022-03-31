@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Мин кэллим",
+    "id1": 1,
+    "form1": "Мин",
+    "lemma1": "мин",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Sing|Person=1|PronType=Prs|",
+    "head1": 2,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null
+}

@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Бу оскуолаҕа элбэх киһи үөрэнэр",
+    "id1": 1,
+    "form1": "Бу",
+    "lemma1": "бу",
+    "upos1": "DET",
+    "xpos1": "det",
+    "feats1": null,
+    "head1": 2,
+    "deprel1": "det",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "оскуолаҕа",
+    "lemma2": "оскуола",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Dat|Number=Sing|",
+    "head2": 5,
+    "deprel2": "obl",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "элбэх",
+    "lemma3": "элбэх",
+    "upos3": "ADJ",
+    "xpos3": "adj",
+    "feats3": null,
+    "head3": 4,
+    "deprel3": "amod",
+    "deps3": null,
+    "misc3": null,
+    "id4": 4,
+    "form4": "киһи",
+    "lemma4": "киһи",
+    "upos4": "NOUN",
+    "xpos4": "n",
+    "feats4": "Case=Nom|Number=Sing|",
+    "head4": 5,
+    "deprel4": "nsubj",
+    "deps4": null,
+    "misc4": null
+}

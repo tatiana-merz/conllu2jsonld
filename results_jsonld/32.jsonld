@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "килиэптэ аҕалыахха наада",
+    "id1": 1,
+    "form1": "килиэптэ",
+    "lemma1": "килиэп",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Par|Number=Sing|",
+    "head1": 2,
+    "deprel1": "nmod",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "аҕалыахха",
+    "lemma2": "аҕал",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Dat|Nomzr=Action|",
+    "head2": 3,
+    "deprel2": "csubj",
+    "deps2": null,
+    "misc2": null
+}

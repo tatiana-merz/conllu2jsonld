@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Түргэнник аһаама, бытааннык аһаа",
+    "id1": 1,
+    "form1": "Түргэнник",
+    "lemma1": "түргэнник",
+    "upos1": "ADV",
+    "xpos1": "adv",
+    "feats1": null,
+    "head1": 2,
+    "deprel1": "advmod",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "аһаама",
+    "lemma2": "аһаа",
+    "upos2": "VERB",
+    "xpos2": "vi",
+    "feats2": "Mood=Imp|Number=Sing|Person=2|Polarity=Neg|",
+    "head2": 0,
+    "deprel2": "root",
+    "deps2": null,
+    "misc2": "SpaceAfter=No|",
+    "id3": 3,
+    "form3": ",",
+    "lemma3": ",",
+    "upos3": "PUNCT",
+    "xpos3": "punct",
+    "feats3": null,
+    "head3": 2,
+    "deprel3": "punct",
+    "deps3": null,
+    "misc3": null,
+    "id4": 4,
+    "form4": "бытааннык",
+    "lemma4": "бытааннык",
+    "upos4": "ADV",
+    "xpos4": "adv",
+    "feats4": null,
+    "head4": 5,
+    "deprel4": "advmod",
+    "deps4": null,
+    "misc4": null
+}

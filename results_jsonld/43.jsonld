@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "үүтү биhиги ынахтан ылабыт",
+    "id1": 1,
+    "form1": "үүтү",
+    "lemma1": "үүт",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Acc|Number=Sing|",
+    "head1": 4,
+    "deprel1": "obj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "биhиги",
+    "lemma2": "биhиги",
+    "upos2": "PRON",
+    "xpos2": "pron",
+    "feats2": "Case=Nom|Number=Plur|Person=1|PronType=Prs|",
+    "head2": 4,
+    "deprel2": "nsubj",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "ынахтан",
+    "lemma3": "ынах",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Abl|Number=Sing|",
+    "head3": 4,
+    "deprel3": "obl",
+    "deps3": null,
+    "misc3": null
+}

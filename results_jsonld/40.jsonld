@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Оскуолаттан кэллэ",
+    "id1": 1,
+    "form1": "Оскуолаттан",
+    "lemma1": "оскуола",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Abl|Number=Sing|",
+    "head1": 2,
+    "deprel1": "obl",
+    "deps1": null,
+    "misc1": null
+}

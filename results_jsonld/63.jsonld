@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Ити уолга харандааста биэр",
+    "id1": 1,
+    "form1": "Ити",
+    "lemma1": "ити",
+    "upos1": "DET",
+    "xpos1": "det",
+    "feats1": null,
+    "head1": 2,
+    "deprel1": "det",
+    "deps1": "det|2|",
+    "misc1": null,
+    "id2": 2,
+    "form2": "уолга",
+    "lemma2": "уол",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Dat|Number=Sing|",
+    "head2": 4,
+    "deprel2": "obl",
+    "deps2": "obl|4|",
+    "misc2": null,
+    "id3": 3,
+    "form3": "харандааста",
+    "lemma3": "харандаас",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Par|Number=Sing|",
+    "head3": 4,
+    "deprel3": "obj",
+    "deps3": "obj|4|",
+    "misc3": null
+}

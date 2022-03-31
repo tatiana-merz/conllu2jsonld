@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "биһиги бэҕэһээ Германияттан сурук тут",
+    "id1": 1,
+    "form1": "биһиги",
+    "lemma1": "биһиги",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Plur|Person=1|PronType=Prs|",
+    "head1": 5,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "бэҕэһээ",
+    "lemma2": "бэҕэһээ",
+    "upos2": "ADV",
+    "xpos2": "adv",
+    "feats2": null,
+    "head2": 5,
+    "deprel2": "advmod",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "Германияттан",
+    "lemma3": "германия",
+    "upos3": "PROPN",
+    "xpos3": "propn",
+    "feats3": "Case=Abl|Number=Sing|",
+    "head3": 5,
+    "deprel3": "obl",
+    "deps3": null,
+    "misc3": null,
+    "id4": 4,
+    "form4": "сурук",
+    "lemma4": "сурук",
+    "upos4": "NOUN",
+    "xpos4": "n",
+    "feats4": "Case=Nom|Number=Sing|",
+    "head4": 5,
+    "deprel4": "obj",
+    "deps4": null,
+    "misc4": null
+}

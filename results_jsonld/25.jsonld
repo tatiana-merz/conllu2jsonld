@@ -1,0 +1,55 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Ийэм кыра оҕоҕо кинигэ ааҕар",
+    "id1": 1,
+    "form1": "Ийэм",
+    "lemma1": "ийэ",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Number=Sing|Number[psor]=Sing|Person[psor]=1|",
+    "head1": 5,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "кыра",
+    "lemma2": "кыра",
+    "upos2": "ADJ",
+    "xpos2": "adj",
+    "feats2": null,
+    "head2": 3,
+    "deprel2": "amod",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "оҕоҕо",
+    "lemma3": "оҕо",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Dat|Number=Sing|",
+    "head3": 5,
+    "deprel3": "obl",
+    "deps3": null,
+    "misc3": null,
+    "id4": 4,
+    "form4": "кинигэ",
+    "lemma4": "кинигэ",
+    "upos4": "NOUN",
+    "xpos4": "n",
+    "feats4": "Case=Nom|Number=Sing|",
+    "head4": 5,
+    "deprel4": "obj",
+    "deps4": null,
+    "misc4": null
+}

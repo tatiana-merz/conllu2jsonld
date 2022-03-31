@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Быраатым уонна балтым үөрэнэллэр",
+    "id1": 1,
+    "form1": "Быраатым",
+    "lemma1": "быраат",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|",
+    "head1": 4,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "уонна",
+    "lemma2": "уонна",
+    "upos2": "CCONJ",
+    "xpos2": "cconj",
+    "feats2": null,
+    "head2": 3,
+    "deprel2": "cc",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "балтым",
+    "lemma3": "балыс",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3|",
+    "head3": 1,
+    "deprel3": "conj",
+    "deps3": null,
+    "misc3": null
+}

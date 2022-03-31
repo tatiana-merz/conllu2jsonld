@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Илиибин сууннум",
+    "id1": 1,
+    "form1": "Илиибин",
+    "lemma1": "илии",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=1|",
+    "head1": 2,
+    "deprel1": "obj",
+    "deps1": null,
+    "misc1": null
+}

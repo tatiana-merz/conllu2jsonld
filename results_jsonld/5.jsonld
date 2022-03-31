@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Эн профессор буолуоҥ",
+    "id1": 1,
+    "form1": "Эн",
+    "lemma1": "ен",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Sing|Person=2|PronType=Prs|",
+    "head1": 3,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "профессор",
+    "lemma2": "профессор",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Nom|",
+    "head2": 3,
+    "deprel2": "xcomp",
+    "deps2": null,
+    "misc2": null
+}

@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Баһаалыста, бары туруҥ",
+    "id1": 1,
+    "form1": "Баһаалыста",
+    "lemma1": "баһаалыста",
+    "upos1": "INTJ",
+    "xpos1": "intj",
+    "feats1": null,
+    "head1": 4,
+    "deprel1": "discourse",
+    "deps1": null,
+    "misc1": "SpaceAfter=No|",
+    "id2": 2,
+    "form2": ",",
+    "lemma2": ",",
+    "upos2": "PUNCT",
+    "xpos2": "punct",
+    "feats2": null,
+    "head2": 1,
+    "deprel2": "punct",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "бары",
+    "lemma3": "бары",
+    "upos3": "PRON",
+    "xpos3": "pron",
+    "feats3": "PronType=Tot|",
+    "head3": 4,
+    "deprel3": "nsubj",
+    "deps3": null,
+    "misc3": null
+}

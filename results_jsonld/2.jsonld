@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Кинигэлэри күн аайы ааҕабын",
+    "id1": 1,
+    "form1": "Кинигэлэри",
+    "lemma1": "кинигэ",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Case=Acc|Number=Plur|",
+    "head1": 4,
+    "deprel1": "obj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "күн",
+    "lemma2": "күн",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": null,
+    "head2": 4,
+    "deprel2": "obl",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "аайы",
+    "lemma3": "аайы",
+    "upos3": "DET",
+    "xpos3": "det",
+    "feats3": null,
+    "head3": 2,
+    "deprel3": "det",
+    "deps3": null,
+    "misc3": null
+}

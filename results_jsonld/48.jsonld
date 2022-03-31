@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Кини доҕотторо нууччалар",
+    "id1": 1,
+    "form1": "Кини",
+    "lemma1": "кини",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Sing|Person=3|PronType=Prs|",
+    "head1": 2,
+    "deprel1": "nmod",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "доҕотторо",
+    "lemma2": "доҕор",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3|",
+    "head2": 3,
+    "deprel2": "nsubj",
+    "deps2": null,
+    "misc2": null
+}

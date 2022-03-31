@@ -1,0 +1,35 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Биһиги иһиппит элбэх",
+    "id1": 1,
+    "form1": "Биһиги",
+    "lemma1": "биһиги",
+    "upos1": "PRON",
+    "xpos1": "pron",
+    "feats1": "Case=Nom|Number=Plur|Person=1|PronType=Prs|",
+    "head1": 2,
+    "deprel1": "nmod",
+    "deps1": "nmod|2|",
+    "misc1": null,
+    "id2": 2,
+    "form2": "иһиппит",
+    "lemma2": "иһит",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=1|",
+    "head2": 3,
+    "deprel2": "nsubj",
+    "deps2": "nsubj|3|",
+    "misc2": null
+}

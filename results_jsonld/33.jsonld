@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Петровка ыыттым",
+    "id1": 1,
+    "form1": "Петровка",
+    "lemma1": "петров",
+    "upos1": "PROPN",
+    "xpos1": "propn",
+    "feats1": "Case=Dat|",
+    "head1": 2,
+    "deprel1": "obj",
+    "deps1": null,
+    "misc1": null
+}

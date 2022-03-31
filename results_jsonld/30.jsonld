@@ -1,0 +1,25 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Аҕаҥ кэллэ",
+    "id1": 1,
+    "form1": "Аҕаҥ",
+    "lemma1": "aҕa",
+    "upos1": "NOUN",
+    "xpos1": "n",
+    "feats1": "Number=Sing|Number[psor]=Sing|Person[psor]=2|",
+    "head1": 2,
+    "deprel1": "nsubj",
+    "deps1": null,
+    "misc1": null
+}

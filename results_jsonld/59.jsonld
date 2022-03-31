@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Кэскилга чэйдэ кут!",
+    "id1": 1,
+    "form1": "Кэскилга",
+    "lemma1": "Кэскил",
+    "upos1": "PROPN",
+    "xpos1": "propn",
+    "feats1": "Case=Dat|",
+    "head1": 3,
+    "deprel1": "iobj",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "чэйдэ",
+    "lemma2": "чэй",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Par|Number=Sing|",
+    "head2": 3,
+    "deprel2": "obj",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "кут",
+    "lemma3": "кут",
+    "upos3": "VERB",
+    "xpos3": "vt",
+    "feats3": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|",
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": null,
+    "misc3": "SpaceAfter=No|"
+}

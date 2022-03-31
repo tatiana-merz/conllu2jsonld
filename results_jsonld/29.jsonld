@@ -1,0 +1,45 @@
+{
+    "@context": [
+        "https://schema.org",
+        {
+            "Components": {
+                "@type": "class",
+                "@id": "https://URL.ru"
+            }
+        }
+    ],
+    "@type": [
+        "TEXT"
+    ],
+    "name": "Ити уол эбэтэ ыалдьар",
+    "id1": 1,
+    "form1": "Ити",
+    "lemma1": "ити",
+    "upos1": "DET",
+    "xpos1": "det",
+    "feats1": null,
+    "head1": 2,
+    "deprel1": "det",
+    "deps1": null,
+    "misc1": null,
+    "id2": 2,
+    "form2": "уол",
+    "lemma2": "уол",
+    "upos2": "NOUN",
+    "xpos2": "n",
+    "feats2": "Case=Nom|Number=Sing|",
+    "head2": 3,
+    "deprel2": "nmod",
+    "deps2": null,
+    "misc2": null,
+    "id3": 3,
+    "form3": "эбэтэ",
+    "lemma3": "эбэ",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Number=Sing|Number[psor]=Sing|Person[psor]=3|",
+    "head3": 4,
+    "deprel3": "nsubj",
+    "deps3": null,
+    "misc3": null
+}
