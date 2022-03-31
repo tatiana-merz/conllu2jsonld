@@ -71,5 +71,15 @@
     "head6": 7,
     "deprel6": "obj",
     "deps6": "obj|7|",
-    "misc6": null
+    "misc6": null,
+    "id7": 7,
+    "form7": "быс",
+    "lemma7": "быс",
+    "upos7": "VERB",
+    "xpos7": "v",
+    "feats7": "Mood=Imp|Number=Sing|Person=2|",
+    "head7": 3,
+    "deprel7": "conj",
+    "deps7": "conj|3|",
+    "misc7": null
 }

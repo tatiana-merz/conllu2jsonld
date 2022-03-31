@@ -71,5 +71,15 @@
     "head6": 2,
     "deprel6": "conj",
     "deps6": null,
-    "misc6": null
+    "misc6": null,
+    "id7": 7,
+    "form7": "баар",
+    "lemma7": "баар",
+    "upos7": "AUX",
+    "xpos7": "v",
+    "feats7": "Tense=Pres|",
+    "head7": 1,
+    "deprel7": "cop",
+    "deps7": null,
+    "misc7": null
 }

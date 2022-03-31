@@ -71,5 +71,15 @@
     "head6": 5,
     "deprel6": "det",
     "deps6": "det|5|",
-    "misc6": null
+    "misc6": null,
+    "id7": 7,
+    "form7": "баар",
+    "lemma7": "баар",
+    "upos7": "AUX",
+    "xpos7": "aux",
+    "feats7": null,
+    "head7": 5,
+    "deprel7": "cop",
+    "deps7": "cop|5|",
+    "misc7": null
 }

@@ -81,5 +81,15 @@
     "head7": 8,
     "deprel7": "obj",
     "deps7": null,
-    "misc7": null
+    "misc7": null,
+    "id8": 8,
+    "form8": "быс",
+    "lemma8": "быс",
+    "upos8": "VERB",
+    "xpos8": "vt",
+    "feats8": "Mood=Imp|Number=Sing|Person=2|Tense=Pres|",
+    "head8": 4,
+    "deprel8": "conj",
+    "deps8": null,
+    "misc8": null
 }

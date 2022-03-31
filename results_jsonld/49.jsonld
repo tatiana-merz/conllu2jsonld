@@ -61,5 +61,15 @@
     "head5": 6,
     "deprel5": "nsubj",
     "deps5": null,
-    "misc5": null
+    "misc5": null,
+    "id6": 6,
+    "form6": "ыалдьар",
+    "lemma6": "ыарый",
+    "upos6": "VERB",
+    "xpos6": "vi",
+    "feats6": "Person=3|Tense=Pres|",
+    "head6": 3,
+    "deprel6": "parataxis",
+    "deps6": null,
+    "misc6": null
 }

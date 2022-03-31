@@ -31,5 +31,15 @@
     "head2": 3,
     "deprel2": "nsubj",
     "deps2": "nsubj|3|",
-    "misc2": null
+    "misc2": null,
+    "id3": 3,
+    "form3": "элбэх",
+    "lemma3": "элбэх",
+    "upos3": "ADJ",
+    "xpos3": "adj",
+    "feats3": null,
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": "root|0|",
+    "misc3": null
 }

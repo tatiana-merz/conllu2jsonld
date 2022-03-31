@@ -41,5 +41,15 @@
     "head3": 0,
     "deprel3": "root",
     "deps3": null,
-    "misc3": null
+    "misc3": null,
+    "id4": 4,
+    "form4": "буолбатах",
+    "lemma4": "буол",
+    "upos4": "AUX",
+    "xpos4": "aux",
+    "feats4": "Polarity=Neg|Tense=Pres|",
+    "head4": 3,
+    "deprel4": "cop",
+    "deps4": null,
+    "misc4": null
 }

@@ -91,5 +91,15 @@
     "head8": 7,
     "deprel8": "compound",
     "deps8": "compound|7|",
-    "misc8": null
+    "misc8": null,
+    "id9": 9,
+    "form9": "туруораллар",
+    "lemma9": "туруор",
+    "upos9": "VERB",
+    "xpos9": null,
+    "feats9": "Number=Plur|Person=2|Tense=Pres|",
+    "head9": 4,
+    "deprel9": "ccomp",
+    "deps9": "ccomp|4|",
+    "misc9": null
 }

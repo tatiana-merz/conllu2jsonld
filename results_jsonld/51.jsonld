@@ -61,5 +61,15 @@
     "head5": 6,
     "deprel5": "obl",
     "deps5": null,
-    "misc5": null
+    "misc5": null,
+    "id6": 6,
+    "form6": "үөрэнэр",
+    "lemma6": "үөрэн",
+    "upos6": "VERB",
+    "xpos6": "vi",
+    "feats6": "Person=3|Tense=Pres|",
+    "head6": 0,
+    "deprel6": "root",
+    "deps6": null,
+    "misc6": null
 }

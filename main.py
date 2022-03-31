@@ -5,10 +5,10 @@ import os
 
 def get_data():
     dirrectory = 'results_jsonld'
-    data_file = open('UD_English-ParTUT.conllu', 'r', encoding='utf-8')
+    data_file = open('UD_Yakut-YKTDT.conllu', 'r', encoding='utf-8')
     for tokenlist in parse_incr(data_file):
         dict_token = tokenlist.metadata
-        dict_struct = parse(tokenlist.serialize())[0][:-1]
+        dict_struct = parse(tokenlist.serialize())[0]#[:1]
 
         result_dict = {}
 

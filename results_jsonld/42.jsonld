@@ -31,5 +31,15 @@
     "head2": 3,
     "deprel2": "obl",
     "deps2": null,
-    "misc2": null
+    "misc2": null,
+    "id3": 3,
+    "form3": "күүстээх",
+    "lemma3": "күүстээх",
+    "upos3": "ADJ",
+    "xpos3": "adj",
+    "feats3": null,
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": null,
+    "misc3": null
 }

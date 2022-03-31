@@ -31,5 +31,15 @@
     "head2": 3,
     "deprel2": "advmod",
     "deps2": null,
-    "misc2": null
+    "misc2": null,
+    "id3": 3,
+    "form3": "баарбыт",
+    "lemma3": "баар",
+    "upos3": "VERB",
+    "xpos3": "v",
+    "feats3": "Number=Plur|Person=1|Tense=Pres|",
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": null,
+    "misc3": null
 }

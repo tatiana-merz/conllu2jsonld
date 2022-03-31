@@ -101,5 +101,15 @@
     "head9": 10,
     "deprel9": "obj",
     "deps9": null,
-    "misc9": null
+    "misc9": null,
+    "id10": 10,
+    "form10": "суруйар",
+    "lemma10": "суруй",
+    "upos10": "VERB",
+    "xpos10": "vt",
+    "feats10": "Number=Sing|Person=3|Tense=Pres|",
+    "head10": 4,
+    "deprel10": "conj",
+    "deps10": null,
+    "misc10": null
 }

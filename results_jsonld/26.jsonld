@@ -91,5 +91,15 @@
     "head8": 9,
     "deprel8": "nsubj",
     "deps8": null,
-    "misc8": null
+    "misc8": null,
+    "id9": 9,
+    "form9": "истэллэр",
+    "lemma9": "иһит",
+    "upos9": "VERB",
+    "xpos9": "v",
+    "feats9": "Number=Plur|Person=3|Tense=Pres|",
+    "head9": 3,
+    "deprel9": "conj",
+    "deps9": null,
+    "misc9": null
 }

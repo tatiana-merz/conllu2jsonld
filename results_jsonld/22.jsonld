@@ -51,5 +51,15 @@
     "head4": 5,
     "deprel4": "advmod",
     "deps4": null,
-    "misc4": null
+    "misc4": null,
+    "id5": 5,
+    "form5": "аһаа",
+    "lemma5": "аһаа",
+    "upos5": "VERB",
+    "xpos5": "vi",
+    "feats5": "Mood=Imp|Number=Sing|Person=2|",
+    "head5": 2,
+    "deprel5": "parataxis",
+    "deps5": null,
+    "misc5": null
 }

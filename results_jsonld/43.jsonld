@@ -41,5 +41,15 @@
     "head3": 4,
     "deprel3": "obl",
     "deps3": null,
-    "misc3": null
+    "misc3": null,
+    "id4": 4,
+    "form4": "ылабыт",
+    "lemma4": "ыл",
+    "upos4": "VERB",
+    "xpos4": "vi",
+    "feats4": "Number=Plur|Person=2|Tense=Pres|",
+    "head4": 0,
+    "deprel4": "root",
+    "deps4": null,
+    "misc4": null
 }

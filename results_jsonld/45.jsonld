@@ -31,5 +31,15 @@
     "head2": 3,
     "deprel2": "obj",
     "deps2": null,
-    "misc2": null
+    "misc2": null,
+    "id3": 3,
+    "form3": "аһыыр",
+    "lemma3": "аһыы",
+    "upos3": "VERB",
+    "xpos3": "vt",
+    "feats3": "Number=Sing|Person=3|Tense=Pres|",
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": null,
+    "misc3": null
 }

@@ -41,5 +41,15 @@
     "head3": 0,
     "deprel3": "root",
     "deps3": null,
-    "misc3": "SpaceAfter=No|"
+    "misc3": "SpaceAfter=No|",
+    "id4": 4,
+    "form4": "!",
+    "lemma4": "!",
+    "upos4": "PUNCT",
+    "xpos4": "punct",
+    "feats4": null,
+    "head4": 3,
+    "deprel4": "punct",
+    "deps4": null,
+    "misc4": null
 }

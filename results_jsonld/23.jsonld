@@ -111,5 +111,15 @@
     "head10": 11,
     "deprel10": "cc",
     "deps10": null,
-    "misc10": null
+    "misc10": null,
+    "id11": 11,
+    "form11": "суон",
+    "lemma11": "суон",
+    "upos11": "ADJ",
+    "xpos11": "adj",
+    "feats11": null,
+    "head11": 9,
+    "deprel11": "conj",
+    "deps11": null,
+    "misc11": null
 }

@@ -61,5 +61,15 @@
     "head5": 6,
     "deprel5": "advmod",
     "deps5": "advmod|6|",
-    "misc5": null
+    "misc5": null,
+    "id6": 6,
+    "form6": "сылабаар",
+    "lemma6": "сылабаар",
+    "upos6": "NOUN",
+    "xpos6": null,
+    "feats6": "Case=Nom|Number=Sing|",
+    "head6": null,
+    "deprel6": "_",
+    "deps6": null,
+    "misc6": null
 }

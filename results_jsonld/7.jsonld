@@ -41,5 +41,15 @@
     "head3": 4,
     "deprel3": "nsubj",
     "deps3": null,
-    "misc3": null
+    "misc3": null,
+    "id4": 4,
+    "form4": "турар",
+    "lemma4": "тур",
+    "upos4": "VERB",
+    "xpos4": "v",
+    "feats4": "Person=3|Tense=Pres|",
+    "head4": 0,
+    "deprel4": "root",
+    "deps4": null,
+    "misc4": null
 }

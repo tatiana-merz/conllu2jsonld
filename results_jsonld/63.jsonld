@@ -41,5 +41,15 @@
     "head3": 4,
     "deprel3": "obj",
     "deps3": "obj|4|",
-    "misc3": null
+    "misc3": null,
+    "id4": 4,
+    "form4": "биэр",
+    "lemma4": "биэр",
+    "upos4": "VERB",
+    "xpos4": "v",
+    "feats4": "Mood=Imp|Number=Sing|Person=2|",
+    "head4": 0,
+    "deprel4": "root",
+    "deps4": "root|0|",
+    "misc4": null
 }

@@ -101,5 +101,15 @@
     "head9": 8,
     "deprel9": "case",
     "deps9": null,
-    "misc9": null
+    "misc9": null,
+    "id10": 10,
+    "form10": "туруҥ",
+    "lemma10": "тур",
+    "upos10": "VERB",
+    "xpos10": "v",
+    "feats10": "Mood=Imp|Number=Plur|Person=2|Tense=Pres|",
+    "head10": 6,
+    "deprel10": "conj",
+    "deps10": null,
+    "misc10": null
 }

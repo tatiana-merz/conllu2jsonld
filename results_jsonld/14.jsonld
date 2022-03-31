@@ -61,5 +61,15 @@
     "head5": 6,
     "deprel5": "advmod",
     "deps5": null,
-    "misc5": null
+    "misc5": null,
+    "id6": 6,
+    "form6": "туһалаабыта",
+    "lemma6": "туһалаа",
+    "upos6": "VERB",
+    "xpos6": "v",
+    "feats6": "Tense=PastPart|",
+    "head6": 0,
+    "deprel6": "root",
+    "deps6": null,
+    "misc6": null
 }

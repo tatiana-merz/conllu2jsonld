@@ -151,5 +151,15 @@
     "head14": 15,
     "deprel14": "obj",
     "deps14": "obj|15|",
-    "misc14": null
+    "misc14": null,
+    "id15": 15,
+    "form15": "сууйуҥ",
+    "lemma15": "сууй",
+    "upos15": "VERB",
+    "xpos15": "v",
+    "feats15": "Mood=Imp|Number=Plur|Person=2|Tense=Pres|",
+    "head15": 3,
+    "deprel15": "conj",
+    "deps15": "conj|3|",
+    "misc15": null
 }

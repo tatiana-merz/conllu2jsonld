@@ -41,5 +41,15 @@
     "head3": 4,
     "deprel3": "obj",
     "deps3": null,
-    "misc3": null
+    "misc3": null,
+    "id4": 4,
+    "form4": "ыытта",
+    "lemma4": "ыыт",
+    "upos4": "VERB",
+    "xpos4": "vd",
+    "feats4": "Person=3|Tense=NearPast|",
+    "head4": 0,
+    "deprel4": "root",
+    "deps4": null,
+    "misc4": null
 }

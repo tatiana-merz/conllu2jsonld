@@ -71,5 +71,15 @@
     "head6": 7,
     "deprel6": "obj",
     "deps6": null,
-    "misc6": null
+    "misc6": null,
+    "id7": 7,
+    "form7": "быста",
+    "lemma7": "быс",
+    "upos7": "VERB",
+    "xpos7": "vt",
+    "feats7": "Number=Sing|Person=3|Tense=NearPast|",
+    "head7": 4,
+    "deprel7": "conj",
+    "deps7": null,
+    "misc7": null
 }

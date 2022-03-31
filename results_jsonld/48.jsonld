@@ -31,5 +31,15 @@
     "head2": 3,
     "deprel2": "nsubj",
     "deps2": null,
-    "misc2": null
+    "misc2": null,
+    "id3": 3,
+    "form3": "нууччалар",
+    "lemma3": "нуучча",
+    "upos3": "NOUN",
+    "xpos3": "n",
+    "feats3": "Case=Nom|Number=Plur|",
+    "head3": 0,
+    "deprel3": "root",
+    "deps3": null,
+    "misc3": null
 }

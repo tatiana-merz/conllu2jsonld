@@ -61,5 +61,15 @@
     "head5": 3,
     "deprel5": "conj",
     "deps5": null,
-    "misc5": "SpaceAfter=No|"
+    "misc5": "SpaceAfter=No|",
+    "id6": 6,
+    "form6": ".",
+    "lemma6": ".",
+    "upos6": "PUNCT",
+    "xpos6": "punct",
+    "feats6": null,
+    "head6": 3,
+    "deprel6": "punct",
+    "deps6": null,
+    "misc6": null
 }

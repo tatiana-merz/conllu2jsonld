@@ -51,5 +51,15 @@
     "head4": 5,
     "deprel4": "obl",
     "deps4": null,
-    "misc4": null
+    "misc4": null,
+    "id5": 5,
+    "form5": "суруйаллар",
+    "lemma5": "суруй",
+    "upos5": "VERB",
+    "xpos5": "vt",
+    "feats5": "Number=Plur|Person=3|Tense=Pres|",
+    "head5": 0,
+    "deprel5": "root",
+    "deps5": null,
+    "misc5": null
 }

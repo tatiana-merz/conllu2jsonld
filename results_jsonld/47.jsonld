@@ -121,5 +121,15 @@
     "head11": 9,
     "deprel11": "conj",
     "deps11": null,
-    "misc11": null
+    "misc11": null,
+    "id12": 12,
+    "form12": "кэпсэтэллэр",
+    "lemma12": "кэпсээ",
+    "upos12": "VERB",
+    "xpos12": "v",
+    "feats12": "Number=Plur|Person=3|Tense=Pres|",
+    "head12": 2,
+    "deprel12": "conj",
+    "deps12": null,
+    "misc12": null
 }
